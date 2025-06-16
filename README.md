@@ -47,4 +47,4 @@ For inquiries or collaboration:
 
 **Email**:Tanimoladaniel14@gmail.com
 
-**Linkedin**:https://www.linkedin.com/in/daniel-tanimola-8a8479298?
+**Linkedin**:https://www.linkedin.com/in/daniel-tanimola-8a8479298
