@@ -38,7 +38,7 @@ Real-time tracking helps optimize posting schedules and content strategy.
 
 ## 📸 Dashboard Review
 
-![Social Media Dashboard](./images/social_media_dashboard.png)
+
 
 
 **Acknowledgements**
