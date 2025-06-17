@@ -37,7 +37,7 @@ Real-time tracking helps optimize posting schedules and content strategy.
 
 **Dashboard Review**
 
-![Image](https://github.com/user-attachments/assets/45847723-4d87-40e0-83f7-1ebcda5ad263)
+
 
 **Acknowledgements**
 
