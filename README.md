@@ -35,6 +35,10 @@ Enable strategic decision-making based on content performance.
 
 Real-time tracking helps optimize posting schedules and content strategy.
 
+**Dashboard Review**
+
+![Image](https://github.com/user-attachments/assets/45847723-4d87-40e0-83f7-1ebcda5ad263)
+
 **Acknowledgements**
 
 Thanks to kaggle data sources and public engagements reports used to stimulate this project. this dashboard was developed as part of personal learning and analytics portfolio.
