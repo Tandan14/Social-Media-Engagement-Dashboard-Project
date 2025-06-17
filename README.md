@@ -37,6 +37,7 @@ Real-time tracking helps optimize posting schedules and content strategy.
 
 **Dashboard Review**
 
+![Social Media Engagement Dashboard](https://github.com/user-attachments/assets/ce185e6b-6ebe-4d2b-9feb-beaf940d5510)
 
 
 **Acknowledgements**
