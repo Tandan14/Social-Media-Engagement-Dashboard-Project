@@ -39,7 +39,7 @@ Real-time tracking helps optimize posting schedules and content strategy.
 ## 📸 Dashboard Review
 
 
-[Image](https://github.com/user-attachments/assets/a1c95e88-1ff7-46d5-a92a-96a80934f12b)
+[Dashboard](https://github.com/user-attachments/assets/a1c95e88-1ff7-46d5-a92a-96a80934f12b)
 
 
 **Acknowledgements**
